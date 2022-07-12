@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/dahinh/dahinh.iml" filepath="$PROJECT_DIR$/basic/dahinh/dahinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/ghide/ghide.iml" filepath="$PROJECT_DIR$/basic/ghide/ghide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-core.iml" filepath="$PROJECT_DIR$/.idea/java-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/kethua/kethua.iml" filepath="$PROJECT_DIR$/basic/kethua/kethua.iml" />
+    </modules>
+  </component>
+</project>
