@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/collectionFramework/collectionFramework.iml" filepath="$PROJECT_DIR$/basic/collectionFramework/collectionFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic/dahinh/dahinh.iml" filepath="$PROJECT_DIR$/basic/dahinh/dahinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/datastructure/datastructure.iml" filepath="$PROJECT_DIR$/basic/datastructure/datastructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic/ghide/ghide.iml" filepath="$PROJECT_DIR$/basic/ghide/ghide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/important_Serialization/important_Serialization.iml" filepath="$PROJECT_DIR$/basic/important_Serialization/important_Serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-core.iml" filepath="$PROJECT_DIR$/.idea/java-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic/kethua/kethua.iml" filepath="$PROJECT_DIR$/basic/kethua/kethua.iml" />
     </modules>
